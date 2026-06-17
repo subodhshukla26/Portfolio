@@ -17,11 +17,11 @@ export function Contact() {
             viewport={{ once: true }}
             transition={{ duration: 0.5 }}
           >
-            <h2 className="text-primary font-mono text-xl mb-4">05. What's Next?</h2>
+            <h2 className="text-primary font-mono text-xl mb-4">05. What&apos;s Next?</h2>
             <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Get In Touch</h1>
             <p className="text-foreground/60 text-lg mb-12 max-w-2xl mx-auto">
-              I'm currently looking for new opportunities, especially internships and full-time roles. 
-              Whether you have a question or just want to say hi, I'll try my best to get back to you!
+              I&apos;m currently looking for new opportunities, especially internships and full-time roles. 
+              Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
             </p>
 
             <div className="grid md:grid-cols-2 gap-12 text-left">
@@ -64,7 +64,7 @@ export function Contact() {
               {/* Socials & Info */}
               <div className="flex flex-col justify-center space-y-8">
                 <div>
-                  <h3 className="text-2xl font-bold mb-4">Let's connect</h3>
+                  <h3 className="text-2xl font-bold mb-4">Let&apos;s connect</h3>
                   <p className="text-foreground/60 mb-8">
                     Feel free to reach out via the form or through my social media channels.
                   </p>

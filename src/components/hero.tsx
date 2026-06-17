@@ -74,7 +74,7 @@ export function Hero() {
               </p>
             </div>
             <p className="text-lg md:text-xl text-foreground/70 mb-10 max-w-2xl leading-relaxed">
-              I'm a Full-Stack Software Developer dedicated to crafting high-performance web solutions. 
+              I&apos;m a Full-Stack Software Developer dedicated to crafting high-performance web solutions. 
               Currently focused on building modern applications with Next.js, TypeScript, and Node.js.
             </p>
             

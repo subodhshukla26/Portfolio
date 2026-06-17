@@ -5,7 +5,6 @@ import { Container } from "./ui/container";
 import { Section } from "./ui/section";
 import { useState } from "react";
 import { Github, ExternalLink, Code2 } from "lucide-react";
-import { Button } from "./ui/button";
 
 const projects = [
   {
@@ -48,7 +47,7 @@ export function Projects() {
           <div>
             <h2 className="text-3xl font-bold mb-4 flex items-center gap-4">
               <span className="text-primary font-mono text-xl">03.</span>
-              Some Things I've Built
+              Some Things I&apos;ve Built
             </h2>
             <p className="text-foreground/60 max-w-xl">
               A collection of projects that demonstrate my technical skills and problem-solving abilities.

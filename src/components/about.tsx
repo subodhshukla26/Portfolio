@@ -51,7 +51,7 @@ export function About() {
                 of building scalable applications that solve real-world problems.
               </p>
               <p>
-                Fast-forward to today, and I've had the privilege of working as a Full Stack Developer 
+                Fast-forward to today, and I&apos;ve had the privilege of working as a Full Stack Developer 
                 at Marvedge, where I sharpened my skills in building responsive UIs and robust backend APIs.
               </p>
               <p>

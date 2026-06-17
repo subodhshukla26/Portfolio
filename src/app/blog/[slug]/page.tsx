@@ -10,7 +10,7 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
   let post;
   try {
     post = getPostData(params.slug);
-  } catch (e) {
+  } catch {
     notFound();
   }
 

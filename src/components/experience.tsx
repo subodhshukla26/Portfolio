@@ -23,7 +23,7 @@ export function Experience() {
       <Container>
         <h2 className="text-3xl font-bold mb-12 flex items-center gap-4">
           <span className="text-primary font-mono text-xl">02.</span>
-          Where I've Worked
+          Where I&apos;ve Worked
         </h2>
 
         <div className="max-w-4xl mx-auto">
